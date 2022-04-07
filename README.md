@@ -1,2 +1,2 @@
 # Pratica e exercicios
- repositorio com exercicios praticos de html css e javascript
+ repositorio com exercicios praticos de html css
